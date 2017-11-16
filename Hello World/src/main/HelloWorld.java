@@ -5,7 +5,7 @@ public class HelloWorld {
 		// This is a comment. Java comments are preceded by "//". Remove the
 		// "//" in the line bellow to uncomment it.
 
-		// System.out.prinln("Hello World");
+		System.out.println("Hello World");
 
 		// Run the program by pressing the green play button in the tool bar.
 	}
